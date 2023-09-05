@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200&family=Rubik+Iso&display=swap');
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Kanit', sans-serif;
+}
+.btnout{
+  border: none;
+  padding: 5px 30px 5px 30px;
+  cursor: pointer;
+  background: #3a35a5;
+  border-radius: 10px;
+}
+
+
+
+.sellbtn {
+  background-color:#3A35A5 !important;
+  border-radius: 4px !important;
+  padding: 10px !important;
+  color: #fff !important;
+  font-weight: bold !important;
+  border: none !important;
+  cursor: pointer !important;
+  min-width: 120px!important;
+}
+.inputform{
+  border: none;
+  padding: 10px;
+  border-radius: 15px;
+  padding: 10px;
+  color: white;
+  background: #211E66;
+}
+a {
+  color: #7dd3fc;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  color-scheme: dark;
+}
+body {
+  color: rgb(49, 49, 49);
+}
